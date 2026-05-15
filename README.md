@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌾 AgriAI CLI — Asisten Pertanian Cerdas
 
 Aplikasi command-line berbasis AI untuk membantu petani Indonesia mendapatkan informasi pertanian yang akurat dan praktis. Ditenagai oleh Claude AI dari Anthropic.
@@ -106,3 +107,6 @@ Pull request sangat diterima! Untuk perubahan besar, buka issue terlebih dahulu.
 ## 📄 Lisensi
 
 MIT License — bebas digunakan dan dimodifikasi.
+=======
+# agri-ai
+>>>>>>> b287de65d4d58d683ddd17e642d6a87a837ed7eb
