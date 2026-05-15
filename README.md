@@ -19,7 +19,7 @@ Aplikasi command-line berbasis AI untuk membantu petani Indonesia mendapatkan in
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/username/agri-ai-cli.git
+git clone https://github.com/aldiboncel49-lgtm/agri-ai.git
 cd agri-ai-cli
 ```
 
